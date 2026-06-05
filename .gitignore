@@ -4,6 +4,9 @@
 *.pyc
 *.swp
 .DS_Store
+
+# Credentials — real env file only, example is fine
+.env
 .atom/
 .build/
 .buildlog/
