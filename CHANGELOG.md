@@ -31,3 +31,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - **核心依赖** — pointycastle（密码学）、bs58check（base58 编解码）、convert（hex 编码）
 
+## [1.0.1] - 2025-03-21
+
+### Added
+
+- 增加自动化部署
