@@ -1,6 +1,6 @@
 name: gasfree_sdk_flutter
 description: A Dart SDK for GasFree transactions. Supports EVM-compatible chains and TRON network.
-version: 1.0.0
+version: 1.0.2
 homepage: https://github.com/gasfreeio/gasfree-sdk-dart
 
 environment:
